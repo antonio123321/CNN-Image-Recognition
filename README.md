@@ -1,4 +1,5 @@
-# CNN-Image-Recognition
+# CNN-Dog-Cat-Image-Recognition
 
-Simple CNN Project to recognize if an image  is categorized as a dog or a cat.
-The dataset included 8000 images to train the model and 2000 to test it.
+Simple Convolutional Neural Network Image Recognition Project.
+Implemented a Convolutional Neural Network (CNN) project aimed at detecting images representing dogs and cats. The dataset comprised 8000 images allocated for training the model and an additional 2000 images assigned for testing its efficiency. The project involved preprocessing the dataset, including image augmentation techniques to enhance model generalization. Utilized CNN architecture, specifically designed for image classification tasks, and subsequently deployed the trained CNN model to classify unseen images, demonstrating its efficacy in real-world scenarios.
+
